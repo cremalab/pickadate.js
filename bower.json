@@ -25,7 +25,14 @@
     "*",
     "!lib/**/*"
   ],
-  "main": ["lib/picker.js", "lib/picker.date.js", "lib/picker.time.js"],
+  "main": [
+    "lib/picker.js",
+    "lib/picker.date.js",
+    "lib/picker.time.js",
+    "lib/themes/classic.css",
+    "lib/themes/classic.date.css",
+    "lib/themes/classic.time.css"
+  ],
   "homepage": "http://amsul.github.io/pickadate.js",
   "docs": "http://amsul.github.io/pickadate.js",
   "demo": "http://amsul.github.io/pickadate.js",
